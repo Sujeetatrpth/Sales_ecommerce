@@ -1,0 +1,2 @@
+# Sales_ecommerce
+In this project the objective was to create a Power BI dashboard representing the real time sales insights for an E-Commerce company. In order to unlock all sales insights some operations were performed i.e. ETL, Data Wrangling, Data Modelling, Data Visualization, Analysis and some DAX functions hence built an insightful and informative dashboard to help the company in decision making.
